@@ -3,8 +3,8 @@ unfollow all automatically through selenium
 * note that Instagram has a limit for unfollowing (15 in 15 minutes, no more than 1000 per day)
 
 * Tested on python 3.7.3
-* Tested on Mac 10.13.2 with Selenium 3.8.1, ChromeDriver 2.35
-* Tested on Instagram on Jan 20th, 2018
+* Tested on Mac 10.15.7 with Selenium 3.141.0, ChromeDriver 86.0.4240.22
+* Tested on Instagram on Nov 13th, 2020
 
 ## Dependency
 * virtualenv
